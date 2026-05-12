@@ -1,4 +1,4 @@
-#  
+#  Enhance Alfred for macOS with Alfred for macOS advanced Integration - focus mode and goal tracking, the #1 integration. Includes focus mode and goal tracking for a smoother
 
 
 
